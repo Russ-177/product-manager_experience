@@ -380,11 +380,11 @@ span {
 	color: #737373;
 	line-height: 142%;
 }
-.item-servic__link {
+.item-service__link {
 	color: #737373;
 	text-decoration:none ;
 }
-.item-servic__link:hover {
+.item-service__link:hover {
 	color: #E72C21;
 	text-decoration:underline ;
 }
